@@ -1,0 +1,5 @@
+{
+  "name": "RP Status HTML Editor",
+  "description": "An intuitive, modern editor to create and customize complex RP (Role-Playing) status windows. Visually edit character profiles, stats, maps, achievements, and more with a live preview, then copy the complete HTML code for your platform.",
+  "requestFramePermissions": []
+}
